@@ -1,43 +1,90 @@
-# K Muni Kumar — Python Full-Stack Developer Portfolio
+# K. Muni Kumar | Python Full-Stack Developer
 
-A responsive, single-page portfolio built with HTML, CSS and vanilla JavaScript. The visual identity preserves the cream, forest-green and terracotta palette, with a matching deep-forest dark theme.
+Welcome to my personal portfolio repository! This website showcases my technical skills, projects, experience, and professional background.
 
-## Features
+🌐 **Live Portfolio:** https://k-muni-kumar-portfolio.netlify.app/
 
-- Responsive navigation with animated mobile menu
-- Persistent light/dark theme toggle
-- Scroll progress indicator, section reveal animations and reduced-motion support
-- Project previews with expandable case-study details
-- Skills grouped by programming languages, frontend, backend, databases and tools
-- Experience, education and certification sections
-- Conceptual full-stack request-flow diagram
-- GitHub and LeetCode profile links
-- Netlify contact form and thank-you page
-- Resume and professional photo stored locally in `assets/`
+## About Me
 
-## Run locally
+I'm K. Muni Kumar, a Computer Science and Engineering graduate with a specialization in Data Science. I'm interested in Python Full-Stack Development, software development, and building practical web applications.
 
-This is a static website. No `npm install` or build step is required.
+I enjoy learning new technologies and applying them to real-world projects.
 
-1. Extract the project folder.
-2. Open `muni-kumar-portfolio-enhanced` in Visual Studio Code.
-3. Open `index.html` with the Live Server extension, or serve the folder with any static HTTP server.
+## Tech Stack
 
-## Deploy
+- **Programming Languages:** Python, Java, SQL
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Python, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
-The project can be deployed as a static site to Netlify. Keep `index.html`, `thank-you.html`, `styles.css`, `script.js`, `netlify.toml` and the `assets/` folder in the published root. The contact form uses Netlify Forms and needs to be tested after deployment.
+## Featured Projects
 
-## Customization
+### 1. Travel Trip
+A travel planning web application.
 
-- Update personal content and links in `index.html`.
-- Update theme colours and layout in `styles.css`.
-- Replace files in `assets/` only when updating the portrait or resume; keep the filenames referenced by the HTML.
+- **Live Demo:** https://travel-trip-project-tau.vercel.app/
+- **GitHub:** https://github.com/munikumar19/TravelTripProject
 
-## Notes
+### 2. Pomodoro Timer
+A productivity application designed to support focused work sessions and breaks.
 
-- The architecture diagram is an illustrative example of a common React-to-Django REST-to-database request flow; it does not claim that every showcased project uses that exact architecture.
-- GitHub contribution artwork is loaded from an external chart service. It requires an internet connection.
-- The cursor aura is desktop-only and is disabled for users who prefer reduced motion.
+- **Live Demo:** https://pomodoro-tracker-1.netlify.app/
+- **GitHub:** https://github.com/munikumar19/pomodoro-timer
 
-### Certificates
-The certifications section links to the NSIC Data Science project certificate, NPTEL soft-skills certificate and IBM Data Fundamentals certificate using the Google Drive URLs included in the supplied resume.
+## Portfolio Features
+
+- Responsive design for desktop and mobile devices
+- Light and dark themes
+- About me and technical skills sections
+- Project showcase with live demos and source code
+- Experience and certifications
+- Resume access
+- Contact form
+
+## Run Locally
+
+This is a static HTML, CSS, and JavaScript project.
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/munikumar19/muni-kumar-portfolio.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd muni-kumar-portfolio
+   ```
+
+3. Open `index.html` in your browser, or use the VS Code Live Server extension.
+
+## Project Structure
+
+```text
+muni-kumar-portfolio/
+│
+├── assets/
+│   ├── Muni-Kumar-Professional-Photo.jpg
+│   └── Muni-Kumar-Resume.pdf
+│
+├── index.html
+├── styles.css
+├── script.js
+├── thank-you.html
+├── netlify.toml
+└── README.md
+```
+
+## Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/kmunikumar/
+- **GitHub:** https://github.com/munikumar19
+- **LeetCode:** https://leetcode.com/u/muni_kumar19/
+- **Portfolio:** https://k-muni-kumar-portfolio.netlify.app/
+- **Email:** munikumar0319@gmail.com
+
+---
+
+Thank you for visiting my portfolio repository!
