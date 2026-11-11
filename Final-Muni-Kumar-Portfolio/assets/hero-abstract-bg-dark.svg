@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14231e"/><stop offset="1" stop-color="#101a16"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.2" fill="#d47a5b" opacity=".32"/></pattern></defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<path d="M0 0H430C380 130 260 160 150 240S40 390 0 420Z" fill="#30483a" opacity=".36"/>
+<path d="M1600 520C1450 560 1450 700 1280 760S1080 810 970 900H1600Z" fill="#263e32" opacity=".65"/>
+<path d="M1600 650C1450 690 1450 820 1300 860S1170 880 1120 900H1600Z" fill="#385440" opacity=".4"/>
+<rect x="1300" y="70" width="220" height="170" fill="url(#dots)"/>
+<g fill="none" stroke="#d47a5b" stroke-width="2" opacity=".18"><path d="M-80 590C180 610 170 850 420 820S650 690 850 900"/><path d="M-80 620C180 640 190 870 430 850S670 720 870 930"/><path d="M-80 650C170 670 210 890 450 880S690 750 890 960"/></g>
+<g fill="none" stroke="#a7b99f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" opacity=".13"><path d="M1190 360l-55 48 55 48M1410 360l55 48-55 48M1320 335l-42 150"/></g>
+</svg>
